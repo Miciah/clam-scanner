@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"os"
 
+	"github.com/Miciah/clam-scanner/pkg/clamav"
 	"github.com/golang/glog"
-	"github.com/openshift/clam-scanner/pkg/clamav"
 	"github.com/spf13/cobra"
 	"github.com/spf13/pflag"
 )

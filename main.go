@@ -1,8 +1,8 @@
 package main
 
 import (
+	"github.com/Miciah/clam-scanner/cmd"
 	"github.com/golang/glog"
-	"github.com/openshift/clam-scanner/cmd"
 )
 
 func main() {
